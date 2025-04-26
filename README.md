@@ -88,7 +88,7 @@ graph TD
 ```
 
 ## License
-[MIT](LICENSE) © 2023 YOUR_NAME
+[MIT](LICENSE) © 2025 Faith-C-Nwokoro
 
 ## Acknowledgements
 - [Stacks Documentation](https://docs.stacks.co/)
